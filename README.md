@@ -3,10 +3,10 @@
 In this Webscraping Project I have made some analysis on the laptops prices based on their features...
 
 # Steps Followed : 
-  1.Problem Statement
-  2.Data Collection 
-  3.Data Cleaning/Data Manipulation 
-  4.Exploratory Data Analysis
+  - 1.Problem Statement
+  - 2.Data Collection 
+  - 3.Data Cleaning/Data Manipulation 
+  - 4.Exploratory Data Analysis
 
 # Modules that I have used :
     - beautifulsoup
