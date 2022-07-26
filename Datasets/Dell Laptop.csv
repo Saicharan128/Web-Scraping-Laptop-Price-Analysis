@@ -1,0 +1,61 @@
+,Brand,Model,Ram,Rom,Processor,Price Category,Processor Type,Rom Type,Price  (₹)
+0,Dell,Inspiron 14 Laptop,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,84989
+1,Dell,Inspiron 15 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66989
+2,Dell,Inspiron 15 Laptop,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,62490
+3,Dell,Inspiron 15 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,70990
+4,Dell,XPS 17 Laptop,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,274989
+5,Dell,XPS 15 Laptop,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,233990
+6,Dell,G15 Gaming Laptop,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,166790
+7,Dell,G15 Gaming Laptop,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,140990
+8,Dell,G15 Gaming Laptop,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,130789
+9,Dell,G15 Gaming Laptop,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,107490
+10,Dell,New Inspiron 16 laptop,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,89489
+11,Dell,New Inspiron 14 Laptop,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,87490
+12,Dell,Inspiron 15 Plus Laptop,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,114989
+13,Dell,ALIENWARE M15 R7 GAMING LAPTOP,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,219989
+14,Dell,ALIENWARE M15 R7 GAMING LAPTOP,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,169989
+15,Dell,Inspiron 14 2-in-1 Laptop,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,96890
+16,Dell,XPS 13 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,99989
+17,Dell,Inspiron 15 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,70489
+18,Dell,XPS 15 Laptop,32GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,249990
+19,Dell,G15 Gaming Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75790
+20,Dell,G15 Gaming Laptop,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,77990
+21,Dell,G15 Gaming Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,90989
+22,Dell,Inspiron 14 Laptop,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,64489
+23,Dell,G15 Gaming Laptop,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,128989
+24,Dell,G15 Gaming Laptop,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,96289
+25,Dell,Inspiron 14 Laptop,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72989
+26,Dell,Inspiron 14 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,69990
+27,Dell,Inspiron 16 laptop,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,70489
+28,Dell,Inspiron 16 laptop,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,78990
+29,Dell,Inspiron 15 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67989
+30,Dell,Inspiron 14 Laptop,16GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,68989
+31,Dell,New Inspiron 14 Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72490
+32,Dell,Inspiron 15 3000 laptop,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,62489
+33,Dell,New Inspiron 16 laptop,16GB,512GB SSD,12th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,69989
+34,Dell,New Inspiron 16 laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,77489
+35,Dell,Inspiron 15 Plus Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,99989
+36,Dell,New Inspiron 14 Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72490
+37,Dell,New Inspiron 14 Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74990
+38,Dell,New Inspiron 14 Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72490
+39,Dell,ALIENWARE M15 R6 GAMING LAPTOP,32GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,229989
+40,Dell,ALIENWARE M15 R7 GAMING LAPTOP,32GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,274988
+41,Dell,Inspiron 14 2-in-1 Laptop,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,80789
+42,Dell,Inspiron 14 2-in-1 Laptop,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,91389
+43,Dell,ALIENWARE M15 RYZEN EDITION R5 GAMING LAPTOP,16GB,512GB SSD,AMD Ryzen R7 5800H,High End Laptop,AMD,Solid State Drive,144990
+44,Dell,ALIENWARE M15 RYZEN EDITION R5 GAMING LAPTOP,16GB,512GB SSD,AMD Ryzen R7 5800H,High End Laptop,AMD,Solid State Drive,129989
+45,Dell,ALIENWARE X15 GAMING LAPTOP,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,249989
+46,Dell,ALIENWARE X14 GAMING LAPTOP,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,170989
+47,Dell,Vostro 3510 Laptop,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,39989
+48,Dell,Vostro 3510 Laptop,8GB,256GB SSD,Intel Pentium Gold,Budget Laptop,Intel,Solid State Drive,34990
+49,Dell,XPS 17 Laptop,32GB,1TB SSD,12th Gen Intel Core i9,High End Laptop,Intel,Solid State Drive,329990
+50,Dell,G15 Gaming Laptop,8GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,70990
+51,Dell,Inspiron 14 Laptop,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,48489
+52,Dell,Inspiron 15 Laptop,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66990
+53,Dell,Inspiron 14 Laptop,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64989
+54,Dell,Inspiron 14 Laptop,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,56990
+55,Dell,Inspiron 14 Laptop,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,60989
+56,Dell,New Inspiron 14 Laptop,8GB,512GB SSD,12th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,51989
+57,Dell,Inspiron 15 3000 laptop,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,44489
+58,Dell,Inspiron 15 3000 Laptop,8GB,256GB SSD,AMD Athlon,Budget Laptop,AMD,Solid State Drive,33490
+59,Dell,Inspiron 15 3000 Laptop,8GB,256GB SSD,Intel Pentium,Budget Laptop,Intel,Solid State Drive,34589

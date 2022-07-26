@@ -1,0 +1,214 @@
+,Brand,Model,Ram,Rom,Processor,Price Category,Processor Type,Rom Type,Price (₹),Website
+0,APPLE,APPLE MacBook Air M1 ,8GB,512GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,106990,FLIPKART
+1,APPLE,APPLE 2020 Macbook Air M1 ,8GB,256GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,92900,FLIPKART
+2,APPLE,APPLE 2020 Macbook Air M1 ,8GB,512GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,111490,FLIPKART
+3,APPLE,APPLE 2020 Macbook Air M1 ,8GB,256GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,92900,FLIPKART
+4,APPLE,APPLE 2022 MacBook Pro M2 ,8GB,256GB SSD,Apple M2 Processor,High End Laptop,Apple M2 Processor,Solid State Drive,129900,FLIPKART
+5,APPLE,APPLE 2022 MacBook Pro M2 ,8GB,512GB SSD,Apple M2 Processor,High End Laptop,Apple M2 Processor,Solid State Drive,149900,FLIPKART
+6,APPLE,APPLE 2021 Macbook Pro M1 Pro ,16GB,512GB SSD,Apple M1 Pro Processor,High End Laptop,Apple M1 Pro Processor,Solid State Drive,225990,FLIPKART
+7,APPLE,APPLE 2020 Macbook Air M1 ,8GB,512GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,112490,FLIPKART
+8,APPLE,APPLE 2022 MacBook Pro M2 ,8GB,512GB SSD,Apple M2 Processor,High End Laptop,Apple M2 Processor,Solid State Drive,149900,FLIPKART
+9,APPLE,APPLE 2020 Macbook Pro M1 ,8GB,256GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,116990,FLIPKART
+10,APPLE,APPLE 2022 MacBook Pro M2 ,8GB,256GB SSD,Apple M2 Processor,High End Laptop,Apple M2 Processor,Solid State Drive,129900,FLIPKART
+11,APPLE,APPLE 2020 Macbook Pro M1 ,8GB,512GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,132990,FLIPKART
+12,APPLE,APPLE MacBook Air M1 ,8GB,512GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,106990,FLIPKART
+13,APPLE,APPLE 2020 Macbook Air M1 ,8GB,256GB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,92900,FLIPKART
+14,APPLE,APPLE MacBook Pro with Touch Bar Core i5 10th Gen ,16GB,1TB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,174990,FLIPKART
+15,APPLE,APPLE 2021 Macbook Pro M1 Pro ,16GB,1TB SSD,Apple M1 Pro Processor,High End Laptop,Apple M1 Pro Processor,Solid State Drive,239990,FLIPKART
+16,APPLE,APPLE MacBook Pro with Touch Bar Core i5 10th Gen ,16GB,1TB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,174990,FLIPKART
+17,APPLE,APPLE MacBook Pro M1 ,8GB,1TB SSD,Apple M1 Processor,High End Laptop,Apple M1 Processor,Solid State Drive,149990,FLIPKART
+18,APPLE,APPLE MacBook Air Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,104990,FLIPKART
+19,APPLE,APPLE 2021 Macbook Pro M1 Pro ,16GB,1TB SSD,Apple M1 Pro Processor,High End Laptop,Apple M1 Pro Processor,Solid State Drive,225990,FLIPKART
+20,APPLE,APPLE MacBook Pro Core i5 8th Gen ,8GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,162990,FLIPKART
+21,Lenovo,Lenovo IdeaPad 3 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,38490,FLIPKART
+22,Lenovo,Lenovo IdeaPad 3 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,33490,FLIPKART
+23,Lenovo,Lenovo IdeaPad Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,38490,FLIPKART
+24,Lenovo,Lenovo IdeaPad 3 Celeron Dual Core 4th Gen ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,27990,FLIPKART
+25,Lenovo,Lenovo Ideapad Slim 5i Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64990,FLIPKART
+26,Lenovo,Lenovo IdeaPad 3 Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47990,FLIPKART
+27,Lenovo,Lenovo IdeaPad 3 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,33490,FLIPKART
+28,Lenovo,Lenovo IdeaPad 3 Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36990,FLIPKART
+29,Lenovo,Lenovo IdeaPad Gaming 3 Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53490,FLIPKART
+30,Lenovo,Lenovo IdeaPad 3 Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,51990,FLIPKART
+31,Lenovo,Lenovo IdeaPad 3 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,41990,FLIPKART
+32,Lenovo,Lenovo Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36990,FLIPKART
+33,Lenovo,Lenovo IdeaPad 3 Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,Budget Laptop,Intel,Solid State Drive,49990,FLIPKART
+34,Lenovo,Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53990,FLIPKART
+35,Lenovo,Lenovo Legion 5 Ryzen 5 Hexa Core 4600H ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Hard Disk Drive & Solid State Drive,60990,FLIPKART
+36,Lenovo,Lenovo IdeaPad 3 Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,Budget Laptop,Intel,Solid State Drive,48490,FLIPKART
+37,Lenovo,Lenovo IdeaPad Core i3 10th Gen ,4GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,31490,FLIPKART
+38,Lenovo,Lenovo Ideapad S145 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36490,FLIPKART
+39,Lenovo,Lenovo Core i3 10th Gen ,4GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,32990,FLIPKART
+40,Lenovo,Lenovo IdeaPad Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64990,FLIPKART
+41,Lenovo,Lenovo Core i3 11th Gen ,4GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,33990,FLIPKART
+42,Lenovo,Lenovo IdeaPad Flex 5 Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,61990,FLIPKART
+43,Lenovo,Lenovo IdeaPad Flex 5 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,58990,FLIPKART
+44,Lenovo,Lenovo APU Dual Core A9 A99425 ,4GB,1TB HDD,AMD APU Dual Core A9,Budget Laptop,AMD,Hard Disk Drive,26990,FLIPKART
+45,Lenovo,Lenovo Thinkpad Ryzen 5 Hexa Core 5600U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,56990,FLIPKART
+46,Lenovo,Lenovo IdeaPad Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,50990,FLIPKART
+47,Lenovo,Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen ,8GB,256GB SSD,Intel Core i5,Budget Laptop,Intel,Solid State Drive,49990,FLIPKART
+48,Lenovo,Lenovo Core i3 10th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,32990,FLIPKART
+49,Lenovo,Lenovo ThinkBook 13s Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,54990,FLIPKART
+50,Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,69990,FLIPKART
+51,Lenovo,Lenovo Ideapad Flex 5 Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,57200,FLIPKART
+52,Lenovo,Lenovo Legion 5 Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66490,FLIPKART
+53,Lenovo,Lenovo IdeaPad 3 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,44490,FLIPKART
+54,Lenovo,Lenovo Ideapad Slim 5i Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,70990,FLIPKART
+55,Lenovo,Lenovo Legion 5 Ryzen 7 Octa Core 5800H ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,130990,FLIPKART
+56,Lenovo,Lenovo IdeaPad Slim 3i (2021) Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,43990,FLIPKART
+57,Lenovo,Lenovo Ideapad Slim 5 Ryzen 7 Octa Core 4700U ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,58990,FLIPKART
+58,Lenovo,Lenovo IdeaPad 3 Celeron Dual Core ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,30799,FLIPKART
+59,Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62990,FLIPKART
+60,Lenovo,Lenovo IdeaPad 5 Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64990,FLIPKART
+61,Lenovo,Lenovo Legion 5 Core i7 11th Gen ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,94990,FLIPKART
+62,Lenovo,Lenovo ThinkPad E15 Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,63990,FLIPKART
+63,Lenovo,Lenovo IdeaPad 5 Pro Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67990,FLIPKART
+64,Lenovo,Lenovo Legion 5 Pro Core i7 11th Gen ,16GB,1TB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,157990,FLIPKART
+65,Lenovo,Lenovo Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,77990,FLIPKART
+66,Lenovo,Lenovo Ideapad Flex 5 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,56999,FLIPKART
+67,Lenovo,Lenovo ThinkPad E15 Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67990,FLIPKART
+68,Lenovo,Lenovo Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,54990,FLIPKART
+69,Lenovo,Lenovo Ideapad Slim3 Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,38990,FLIPKART
+70,Lenovo,Lenovo IdeaPad 1 Celeron Dual Core 4th Gen ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,27990,FLIPKART
+71,Lenovo,Lenovo Thinkbook Convertible Core i7 11th Gen ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,84990,FLIPKART
+72,Lenovo,Lenovo Core i7 9th Gen ,16GB,1TB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,229900,FLIPKART
+73,Lenovo,Lenovo ThinkPad E15 Core i3 11th Gen ,4GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,44990,FLIPKART
+74,Lenovo,Lenovo IdeaPad 3 15IML05 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,32990,FLIPKART
+75,Lenovo,Lenovo IdeaPad 5 Pro Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,72990,FLIPKART
+76,Lenovo,Lenovo Yoga 6 Ryzen 5 Hexa Core 5500U ,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,75990,FLIPKART
+77,Lenovo,Lenovo IdeaPad Flex 5 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,58990,FLIPKART
+78,Lenovo,Lenovo Yoga Slim 7 Intel EVO Core i7 11th Gen ,16GB,1TB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,102990,FLIPKART
+79,Lenovo,Lenovo IdeaPad Gaming 3 Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,65990,FLIPKART
+80,Lenovo,Lenovo Yoga Slim 7 Intel EVO Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,87990,FLIPKART
+81,Lenovo,Lenovo IdeaPad 3 Chromebook Celeron Dual Core ,4GB,1TB HDD + 256GB SSD,Intel Celeron,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,19990,FLIPKART
+82,Lenovo,Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57990,FLIPKART
+83,Lenovo,Lenovo Yoga Slim 7 Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,74990,FLIPKART
+84,Lenovo,Lenovo IdeaPad 3 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36999,FLIPKART
+85,Lenovo,Lenovo Ideapad Slim 3i Core i5 11th Gen ,8GB,256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,54699,FLIPKART
+86,Lenovo,Lenovo Lenovo Legion 5 Pro Ryzen 7 Octa Core 5800H ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,142990,FLIPKART
+87,Lenovo,Lenovo Legion Core i5 9th Gen ,8GB,1TB HDD + 256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,65990,FLIPKART
+88,Lenovo,Lenovo Yoga 6 Ryzen 7 Octa Core 5700U ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,80990,FLIPKART
+89,Lenovo,Lenovo Ideapad Slim 5 Ryzen 7 Octa Core 5700U ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,63990,FLIPKART
+90,Lenovo,Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 5600H ,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,77490,FLIPKART
+91,Lenovo,Lenovo Legion 5 Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,74999,FLIPKART
+92,Lenovo,Lenovo IdeaPad Gaming Core i7 10th Gen ,8GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,75990,FLIPKART
+93,HP,HP Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,38490,FLIPKART
+94,HP,HP HP Pavilion Ryzen 5 Hexa Core 4600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,60950,FLIPKART
+95,HP,HP Ryzen 3 Dual Core 3250U ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,35990,FLIPKART
+96,HP,HP Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,48990,FLIPKART
+97,HP,HP Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36490,FLIPKART
+98,HP,HP Ryzen 7 Octa Core 5700U ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,56990,FLIPKART
+99,HP,HP Notebook PC Core i3 11th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,36990,FLIPKART
+100,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,39990,FLIPKART
+101,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,41397,FLIPKART
+102,HP,HP 15s Ryzen 3 Dual Core 3250U ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,38999,FLIPKART
+103,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42990,FLIPKART
+104,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,39990,FLIPKART
+105,HP,HP Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53990,FLIPKART
+106,HP,HP Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47490,FLIPKART
+107,HP,HP Pavilion x360 Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,53990,FLIPKART
+108,HP,HP Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,50990,FLIPKART
+109,HP,HP Ryzen 5 Octa Core 3500u ,8GB,1TB HDD,AMD Ryzen 5,Budget Laptop,AMD,Hard Disk Drive,39980,FLIPKART
+110,HP,HP Pavilion Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,59990,FLIPKART
+111,HP,HP Pavilion Aero Ryzen 5 Hexa Core 5600U ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,64490,FLIPKART
+112,HP,HP Pavilion Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,53990,FLIPKART
+113,HP,HP Laptop 255 G8 Notebook Ryzen 3 Dual Core AMD Ryzen 3,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,29790,FLIPKART
+114,HP,HP Ryzen 3 Quad Core 5300U ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,38490,FLIPKART
+115,HP,HP Pavilion Ryzen 7 Octa Core 5825U ,16GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,69999,FLIPKART
+116,HP,HP Pentium Quad Core ,8GB,256GB SSD,Intel Pentium,Budget Laptop,Intel,Solid State Drive,32490,FLIPKART
+117,HP,HP Ryzen 3 Quad Core 5300U ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,38990,FLIPKART
+118,HP,HP Pavilion Ryzen 5 Hexa Core 5625U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,52999,FLIPKART
+119,HP,HP Pavilion Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,60990,FLIPKART
+120,HP,HP Celeron Dual Core ,8GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,30990,FLIPKART
+121,HP,HP Pavilion Ryzen 5 Hexa Core 5500U ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,59990,FLIPKART
+122,HP,HP Pavilion Gaming Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,59990,FLIPKART
+123,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,41990,FLIPKART
+124,HP,HP Pavilion x360 Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,50990,FLIPKART
+125,HP,HP Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52990,FLIPKART
+126,HP,HP Pavilion Gaming Core i5 11th Gen ,8GB,1TB HDD + 256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,66990,FLIPKART
+127,HP,HP Ryzen 3 Dual Core ,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,29790,FLIPKART
+128,HP,HP Pavilion Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,61490,FLIPKART
+129,HP,HP Pavilion x360 Convertible Core i7 11th Gen ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,85190,FLIPKART
+130,HP,HP Ryzen 3 Hexa Core 4th Gen ,8GB,512GB SSD,AMD Ryzen 3,Mid Range Laptop,AMD,Solid State Drive,63590,FLIPKART
+131,HP,HP Pavilion Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,62990,FLIPKART
+132,HP,HP Core i5 12th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57390,FLIPKART
+133,HP,HP 15s Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,41450,FLIPKART
+134,HP,HP Pavilion Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,65990,FLIPKART
+135,HP,HP Pavilion Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,54999,FLIPKART
+136,HP,HP Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,39990,FLIPKART
+137,HP,HP Pavilion Gaming Ryzen 7 Octa Core 4800H ,16GB,1TB HDD + 256GB SSD,AMD Ryzen 7,High End Laptop,AMD,Hard Disk Drive & Solid State Drive,78990,FLIPKART
+138,HP,HP Pavilion Ryzen 5 Hexa Core 5625U ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,59999,FLIPKART
+139,HP,HP Pavilion x360 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,47890,FLIPKART
+140,HP,HP Ryzen 5 Quad Core 3500U 3rd Gen ,8GB,1TB HDD,AMD Ryzen 5,Budget Laptop,AMD,Hard Disk Drive,37290,FLIPKART
+141,HP,HP OMEN 15 Ryzen 7 Octa Core 5800H ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,158490,FLIPKART
+142,HP,HP Pavilion x360 Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,47890,FLIPKART
+143,HP,HP 15s Core i5 11th Gen ,8GB,1TB HDD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,56490,FLIPKART
+144,HP,HP Core i5 12th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,58990,FLIPKART
+145,HP,HP Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42990,FLIPKART
+146,HP,HP HP Pavilion Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,71990,FLIPKART
+147,HP,HP 15s Core i3 11th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,43490,FLIPKART
+148,HP,HP 15 Core i3 6th Gen ,4GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,34881,FLIPKART
+149,HP,HP Ryzen 3 Dual Core ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,39000,FLIPKART
+150,HP,HP 14s Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42490,FLIPKART
+151,HP,HP Pavilion Core i5 12th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64900,FLIPKART
+152,HP,HP 14s Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42290,FLIPKART
+153,HP,HP 14s Core i5 10th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,55990,FLIPKART
+154,HP,HP Pavilion Core i7 11th Gen ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,85190,FLIPKART
+155,HP,HP Pavilion Ryzen 5 Hexa Core 5625U ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62900,FLIPKART
+156,HP,HP 14s Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,49490,FLIPKART
+157,HP,HP Pavilion Gaming Ryzen 5 Quad Core 3550H ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,59990,FLIPKART
+158,HP,HP Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61990,FLIPKART
+159,HP,HP Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57990,FLIPKART
+160,HP,HP 15s Ryzen 5 Hexa Core 4500U ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,45990,FLIPKART
+161,HP,HP 15s Ryzen 5 Quad Core 3500U ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,46990,FLIPKART
+162,HP,HP Pavilion x360 Convertible Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,55490,FLIPKART
+163,HP,HP Pavilion Gaming Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,70990,FLIPKART
+164,HP,HP Pavilion Gaming Ryzen 7 Octa Core 5800H ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,79990,FLIPKART
+165,DELL,DELL Vostro Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,43390,FLIPKART
+166,DELL,DELL Vostro Ryzen 3 Dual Core R3,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,35000,FLIPKART
+167,DELL,DELL Inspiron Athlon Dual Core 3050U ,8GB,256GB SSD,AMD Athlon,Budget Laptop,AMD,Solid State Drive,33290,FLIPKART
+168,DELL,DELL Inspiron Ryzen 3 Dual Core 3250U ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,37799,FLIPKART
+169,DELL,DELL Vostro Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42390,FLIPKART
+170,DELL,DELL Vostro Core i3 10th Gen ,8GB,1TB HDD + 256GB SSD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,41490,FLIPKART
+171,DELL,DELL Inspiron Pentium Silver ,8GB,256GB SSD,Intel Pentium,Budget Laptop,Intel,Solid State Drive,33390,FLIPKART
+172,DELL,DELL Ryzen 3 Dual Core 3250U ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,41290,FLIPKART
+173,DELL,DELL Vostro Core i5 11th Gen ,8GB,1TB HDD + 256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,57390,FLIPKART
+174,DELL,DELL Inspiron Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,55190,FLIPKART
+175,DELL,DELL Vostro Core i3 11th Gen ,4GB,1TB HDD + 256GB SSD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,43090,FLIPKART
+176,DELL,DELL Core i3 10th Gen ,8GB,1TB HDD + 256GB SSD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,42890,FLIPKART
+177,DELL,DELL Inspiron Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,69590,FLIPKART
+178,DELL,DELL Inspiron Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,43590,FLIPKART
+179,DELL,DELL Inspiron Ryzen 3 Dual Core 3250U ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,39490,FLIPKART
+180,DELL,DELL Inspiron Ryzen 3 Dual Core 3250U ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,44390,FLIPKART
+181,DELL,DELL Inspiron Ryzen 3 Dual Core 3250U ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,39990,FLIPKART
+182,DELL,DELL Vostro Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,40490,FLIPKART
+183,DELL,DELL Vostro Ryzen 5 Quad Core R5,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,40790,FLIPKART
+184,DELL,DELL Vostro Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,43090,FLIPKART
+185,DELL,DELL Vostro Core i3 11th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,41490,FLIPKART
+186,DELL,DELL Inspiron Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42190,FLIPKART
+187,DELL,DELL Ryzen 5 Hexa Core 5600H ,8GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,70990,FLIPKART
+188,DELL,DELL Inspiron Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,76090,FLIPKART
+189,DELL,DELL Vostro Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,40990,FLIPKART
+190,DELL,DELL Inspiron Ryzen 5 Dual Core 3450U ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47490,FLIPKART
+191,DELL,DELL Vostro Core i3 11th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,42890,FLIPKART
+192,DELL,DELL Vostro Core i3 10th Gen ,4GB,1TB HDD + 256GB SSD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,44490,FLIPKART
+193,DELL,DELL Inspiron Core i3 11th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,40990,FLIPKART
+194,DELL,DELL Vostro Core i3 11th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,42390,FLIPKART
+195,DELL,DELL Inspiron Ryzen 3 Dual Core 3250U ,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,38990,FLIPKART
+196,DELL,DELL INSPIRON Core i3 10th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,42690,FLIPKART
+197,DELL,DELL Vostro Core i3 10th Gen ,8GB,512GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,43290,FLIPKART
+198,DELL,DELL Vostro Ryzen 5 Hexa Core 5500U ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,55990,FLIPKART
+199,DELL,DELL Core i3 11th Gen ,8GB,512GB SSD,Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,60690,FLIPKART
+200,DELL,DELL Inspiron Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64290,FLIPKART
+201,DELL,DELL Inspiron Core i3 10th Gen ,4GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,39890,FLIPKART
+202,DELL,DELL Vostro Core i3 10th Gen ,4GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,36057,FLIPKART
+203,DELL,DELL Ryzen 5 Hexa Core 5600H ,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,75990,FLIPKART
+204,DELL,DELL Inspiron Core i5 11th Gen ,4GB,1TB HDD + 256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,56590,FLIPKART
+205,DELL,DELL Inspiron Core i3 10th Gen ,8GB,1TB HDD,Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,39390,FLIPKART
+206,DELL,DELL Core i5 11th Gen ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,85990,FLIPKART
+207,DELL,DELL Inspiron Ryzen 5 Quad Core 3450U ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,44390,FLIPKART
+208,DELL,DELL Vostro Core i5 11th Gen ,8GB,1TB HDD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,54790,FLIPKART
+209,DELL,DELL Inspiron Core i5 11th Gen ,8GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,72490,FLIPKART
+210,DELL,DELL Inspiron Core i3 10th Gen ,8GB,256GB SSD,Intel Core i3,Budget Laptop,Intel,Solid State Drive,44190,FLIPKART
+211,DELL,DELL Inspiron Ryzen 7 Octa Core 5825U ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,66190,FLIPKART
+212,DELL,DELL Inspiron Ryzen 5 Quad Core 3450U ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,49613,FLIPKART
