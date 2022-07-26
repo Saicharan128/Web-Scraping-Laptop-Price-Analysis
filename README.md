@@ -1,6 +1,6 @@
 # Web-Scraping-Laptop-Price-Analysis
 
-In this Webscraping Project I have made some analysis on the laptops and made some analysis of them based on their features...
+In this Webscraping Project I have made some analysis on the laptops based on their features...
 
 Steps Followed : 
   1.Problem Statement
