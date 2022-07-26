@@ -1,0 +1,419 @@
+,Brand,Model,Ram,Rom,Processor,Price Category,Processor Type,Rom Type,Price  (₹)
+0,Lenovo,Lenovo DFIN Yoga Slim 7 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,81999
+1,Dell,Dell 3400 Vostro 14 Laptop ,4GB,1TB HDD + 256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,45999
+2,Asus,Asus KG512S Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,67999
+3,Asus,Asus KG711TS Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72499
+4,Microsoft,Microsoft 5UI-00023 Surface 4 Laptop ,8GB,256GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,130990
+5,Microsoft,Microsoft 5PB-00023 Surface 4 Laptop ,8GB,256GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,99990
+6,Dell,Dell 3515 Inspiron 15 Standard Laptop ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,38999
+7,Dell,Dell 3515 Inspiron 15 Standard Laptop ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,42999
+8,Dell,Dell 3511 Inspiron 15 Standard Laptop ,8GB,1TB HDD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,40999
+9,Dell,Dell 3405 Vostro 14 Laptop ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,45799
+10,Dell,Dell 3511 Inspiron 15 Standard Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,58999
+11,Dell,Dell 3511 Inspiron 15 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,63499
+12,Lenovo,Lenovo 13IN IdeaPad 3i Laptop ,4GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31999
+13,Lenovo,Lenovo 2EIN IdeaPad 3i Laptop ,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,32999
+14,HP,HP Envy x360 E13-AY0508AU Convertible Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,91999
+15,HP,HP Envy 13-ba1501TX Laptop ,16GB,512GB SSD,Intel Core i5,High End Laptop,Intel,Solid State Drive,77999
+16,HP,HP Pavilion 15-DK2076TX Gaming Laptop ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,90999
+17,Lenovo,Lenovo 2EHA IdeaPad Slim 3i Laptop ,4GB,64GB eMMC 5.1,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,16999
+18,Lenovo,Lenovo 12HA IdeaPad Flex 3i Laptop ,4GB,128GB eMMC 5.1,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,23499
+19,Lenovo,Lenovo DGIN IdeaPad Slim 3i Laptop ,8GB,256GB SSD,Intel Core i5,Budget Laptop,Intel,Solid State Drive,46999
+20,HP,HP Pavilion 14-EC0000AX Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62999
+21,Acer,Acer NX.A1GSI.00D Aspire 5 Laptop ,8GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53999
+22,HP,HP Pavilion 14-EC0033AU Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,58999
+23,HP,HP 33.78 cm ,16GB,16 GB,Intel Core i7,High End Laptop,Intel,Solid State Drive,161999
+24,HP,HP 16d0351TX Victus Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,87999
+25,HP,HP 16d0360TX Victus Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,108999
+26,Lenovo,Lenovo 4DIN Ideapad Gaming 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,73999
+27,HP,HP 13-BE0030AU Pavilion Aero Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,65999
+28,Asus,Asus HN272T TUF F15 Gaming Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,63990
+29,Lenovo,Lenovo G0IN IdeaPad 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,39499
+30,Dell,Dell 3400 Vostro Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,57999
+31,Dell,Dell 9310 XPS Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,140999
+32,HP,HP 15S-GR0012AU Laptop ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,41499
+33,AVITA,AVITA Liber V14 A8INF561-GB Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,46999
+34,AVITA,AVITA Liber V14 A8INF562-CS Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,46999
+35,Dell,Dell 3501 Inspiron Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,57999
+36,Dell,Dell 3501 Inspiron Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,64999
+37,HP,HP 15s-fq2071TU Laptop ,8GB,512GB SSD + 32GB Intel Optane Memory,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive & Intel Optane Memory,57999
+38,Lenovo,Lenovo E0IN Yoga 7 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,98999
+39,Lenovo,Lenovo CTIN Yoga 7 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,81990
+40,Dell,Dell 5310 Inspiron 13 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,65499
+41,Lenovo,Lenovo CVIN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61190
+42,Lenovo,Lenovo P2IN Legion 5 Gaming Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,71490
+43,Asus,Asus HQ008TS ROG Strix G15 ,16GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,154999
+44,Asus,Asus BQ562TS Laptop ,8GB,512GB SSD + 32GB Intel Optane Memory,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive & Intel Optane Memory,49999
+45,Asus,Asus EB562TS Laptop ,8GB,512GB SSD + 32GB Intel Optane Memory,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive & Intel Optane Memory,52999
+46,Asus,Asus BV301TS Laptop ,4GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,26999
+47,Asus,Asus K2066TS ROG Zephyrus G14 Gaming Laptop ,8GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72999
+48,Lenovo,Lenovo W6IN IdeaPad Flex 5 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,58499
+49,Lenovo,Lenovo JCIN Legion 5 Pro Gaming Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,144999
+50,Lenovo,Lenovo 7KIN IdeaPad 3 Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47999
+51,HP,HP 15-eg1001TU Pavilion Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61999
+52,Asus,Asus EB522TS Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,47999
+53,Asus,Asus EK562WS Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,48999
+54,Asus,Asus KM053WS Vivobook Pro 14X Gaming Laptop ,16GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,101999
+55,Acer,Acer A314-22 Aspire 3 Laptop ,4GB,1TB HDD,AMD 3020e,Budget Laptop,AMD,Hard Disk Drive,24990
+56,Acer,Acer A514-54 Aspire 5 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,51890
+57,Asus,Asus KA501WS TUF A17 ZenBook Duo Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,96999
+58,Asus,Asus BQ511WS VivoBook 15 Laptop ,8GB,256GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,41990
+59,Asus,Asus HF068WS TUF F15 Gaming Laptop ,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,142999
+60,Asus,Asus HX020W ROG Strix G17 Gaming Laptop ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,109999
+61,HP,HP Pavilion 15-EG1000TX Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,70999
+62,HP,HP Pavilion 14-ec0037AU Laptop,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,60400
+63,Lenovo,Lenovo DYIN Yoga 7 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,78999
+64,Dell,Dell 3400 Vostro 14 Laptop ,8GB,512GB SSD,11th Gen Intel Core Core i3,Mid Range Laptop,Intel,Solid State Drive,62499
+65,Asus,Asus KA711WS ZenBook Duo Laptop ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,137999
+66,Lenovo,Lenovo 05IN IdeaPad 3 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,50999
+67,Asus,Asus HY777TS ZenBook Duo ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,AMD,Solid State Drive,121999
+68,HP,HP 13-bd0004TU Envy x360 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,84999
+69,Lenovo,Lenovo 22IN IdeaPad Slim 5i Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67990
+70,Lenovo,Lenovo 3VIN IdeaPad Slim 5i Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74990
+71,HP,HP 14s-er0503TU Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53999
+72,HP,HP 16d0003TX Victus Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,80499
+73,Lenovo,Lenovo KYIN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,60999
+74,HP,HP 15-dk1508TX Pavilion Gaming Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,68999
+75,Lenovo,Lenovo 8DIN IdeaPad Gaming 3i Laptop ,8GB,1TB HDD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,58990
+76,Lenovo,Lenovo 93IN IdeaPad Gaming 3i Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67990
+77,HP,HP 13-ay0046AU Convertible Laptop ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,96999
+78,AVITA,AVITA A2INC44AMB Essential Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,22999
+79,HP,HP 15-EC1048AX Pavilion Gaming Laptop ,8GB,1TB HDD + 256GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Hard Disk Drive & Solid State Drive,66999
+80,HP,HP 15-dk1511TX Pavilion Gaming Laptop ,16GB,512GB SSD,10th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,89999
+81,HP,HP 15-eg1000TU Pavilion Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61999
+82,HP,HP 13-BE0208AU Pavilion Aero Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,81999
+83,HP,HP 4s-fq1083AU Laptop ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,56999
+84,Lenovo,Lenovo 75IN IdeaPad Slim 3 Pro Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,54999
+85,Dell,Dell 3511 Inspiron 15 Gaming Laptop ,8GB,1TB + 256GB Hybrid,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hybrid,64999
+86,Asus,Asus EK562WS Laptop ,16GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,35999
+87,Lenovo,Lenovo MPIN IdeaPad 3 Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,51999
+88,Lenovo,Lenovo 4HIN Yoga 7 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,98999
+89,Microsoft,Microsoft Surface Laptop Go ,8GB,256GB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75990
+90,Lenovo,Lenovo L3IN IdeaPad 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,35999
+91,Microsoft,Microsoft Surface Laptop Go ,8GB,128GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64890
+92,Lenovo,Lenovo QTIN IdeaPad L340 Gaming Laptop ,8GB,1TB HDD,9th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,55999
+93,Lenovo,Lenovo KLIN IdeaPad Slim 3i Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,38499
+94,HP,HP 14s-DQ2535TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,55999
+95,HP,HP 15s-DR3500TX Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64999
+96,HP,HP 14s-DR2016TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,58999
+97,Asus,Asus HN256T TUF Gaming F15 Gaming Laptop ,16GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+98,Dell,Dell Inspiron 15-G3 3500 Gaming Laptop ,8GB,512GB SSD,10th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,87999
+99,HP,HP Firefly G7 ZBook Laptop ,8GB,1TB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,96499
+100,HP,HP Firefly G7 ZBook Laptop ,8GB,1TB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,92999
+101,Lenovo,Lenovo BQIN IdeaPad 5 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,64990
+102,HP,HP 15S-du3032TU Laptop ,8GB,1TB HDD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,54999
+103,Apple,Apple MGN73HNA MacBook Air ,8GB,512GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,110095
+104,Apple,Apple MYD92HNA MacBook Pro ,8GB,512GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,131435
+105,Lenovo,Lenovo BPIN IdeaPad 5 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Hard Disk Drive & Solid State Drive,72990
+106,HP,HP 14s-DR2007TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,74999
+107,Asus,Asus ExpertBook P1 ,4GB,1TB,10th Gen Intel Core i3,Budget Laptop,AMD,Hard Disk Drive,45999
+108,HP,HP 13-ay0045AU Envy x360 Laptop ,8GB,512GB SSD,AMD Ryzen R5,High End Laptop,AMD,Solid State Drive,70999
+109,HP,HP 15s-du3564TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,43299
+110,HP,HP 15s-du3563TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,42999
+111,Realme,Realme RMNB1002 Book Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,59999
+112,Realme,Realme RMNB1002 Book Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,59999
+113,Realme,Realme RMNB1001 Book Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,46999
+114,Realme,Realme RMNB1001 Book Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,46999
+115,Asus,Asus L1262TS Vivobook Pro 15 Gaming Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,92999
+116,Asus,Asus EK701WS VivoBook 14 Laptop ,16GB,512GB SSD,10th Gen Intel Core i7,Mid Range Laptop,Intel,Solid State Drive,55499
+117,Dell,Dell 5518 Inspiron 15 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,73499
+118,Asus,Asus EJ362WS VivoBook 15 Laptop ,8GB,512GB SSD + 32GB Intel Optane Memory,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive & Intel Optane Memory,36990
+119,Asus,Asus LQ122WS Vivobook 13 Slate Laptop ,4GB,128GB eMMC,Intel Pentium Silver N6000,Budget Laptop,Intel,Embedded Multimedia Card,41799
+120,Asus,Asus LQ121WS Vivobook 13 Slate Laptop ,4GB,128GB eMMC,Intel Pentium Silver N6000,Mid Range Laptop,Intel,Embedded Multimedia Card,51999
+121,Asus,Asus LQ111WS Vivobook 13 Slate Laptop ,8GB,256GB eMMC,Intel Pentium Silver N6000,Mid Range Laptop,Intel,Embedded Multimedia Card,53499
+122,Dell,Dell 5518 Inspiron 15 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+123,Lenovo,Lenovo 8YIN IdeaPad Flex 5 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+124,Dell,Dell 5518 Inspiron 15 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,68999
+125,Asus,Asus HP562WS Zenbook Flip 13 2-in-1 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,85499
+126,HP,HP 15-eh1101AU Pavilion Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,57999
+127,AVITA,AVITA A8INF561 Liber V14 Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,47999
+128,Asus,Asus BV301T Laptop ,4GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,25999
+129,Lenovo,Lenovo D1IN IdeaPad 5 Pro Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,78499
+130,Lenovo,Lenovo HWIN Yoga 7 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,92999
+131,Apple,Apple MBPMK183HNA MacBook Pro ,16GB,512GB,Apple M1 Pro chip,High End Laptop,Apple M1 Pro Chip,Solid State Drive,225506
+132,Asus,Asus K513EA-L502TS Laptop ,8GB,1TB HDD + 256GB SSD,Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,61499
+133,Dell,Dell 3511 Inspiron 15 ,8GB,1TB HDD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,43499
+134,Microsoft,Microsoft TFN-00013 Surface Pro 7+ Convertible Laptop ,8GB,128GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,90999
+135,Acer,Acer A715-42G Aspire 7 Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,54990
+136,Acer,Acer A315-58 Aspire 3 Laptop ,4GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31790
+137,Dell,Dell Vostro 3405 Laptop ,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,36999
+138,Dell,Dell 3511 Inspiron 15 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,40999
+139,Dell,Dell 3400 Vostro Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61999
+140,Acer,Acer B311-31 Travelmate B3 Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,23490
+141,Acer,Acer B311-31 Travelmate B3 Laptop ,4GB,128GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,21999
+142,Acer,Acer A315-23 Aspire 3 Laptop ,4GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,33490
+143,Dell,Dell 3511 Inspiron 15 Laptop ,8GB,1TB + 256GB Hybrid,11th Gen Intel Core i3,Budget Laptop,Intel,Hybrid,48499
+144,HP,HP 15-ec1025AX Pavilion Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,61999
+145,Dell,Dell Vostro 3400 Laptop ,8GB,1TB HDD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,50499
+146,Dell,Dell 3515 Inspiron 15 ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,45199
+147,Dell,Dell 3511 Inspiron 15 ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,40999
+148,Dell,Dell Vostro 3400 Laptop ,8GB,1TB HDD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,41999
+149,Lenovo,Lenovo PUIN IdeaPad 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,47799
+150,Dell,Dell 3515 Inspiron 15 Laptop ,8GB,1TB HDD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive,38999
+151,Dell,Dell 5410 Inspiron 14 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+152,Lenovo,Lenovo 56IN IdeaPad 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,48999
+153,HP,HP 15-DK2095TX Pavilion Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74999
+154,HP,HP 15-EC2075AX Pavilion Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,91999
+155,HP,HP 13-BE0206AU Pavilion Aero Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,67999
+156,Lenovo,Lenovo 92IN IdeaPad 3 Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,31999
+157,Lenovo,Lenovo 4DIN IdeaPad 5 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,65999
+158,Lenovo,Lenovo 0AIN Yoga 7 Laptop ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,87999
+159,Lenovo,Lenovo 07WIN Legion 5 Laptop ,16GB,512GB SSD,Intel Core i7,High End Laptop,Intel,Solid State Drive,119999
+160,Lenovo,Lenovo DWIN IdeaPad 3 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52999
+161,Lenovo,Lenovo DCIN IdeaPad 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,47799
+162,Lenovo,Lenovo DPIN Yoga 6 Convertible ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,81999
+163,Lenovo,Lenovo BPIN IdeaPad 3 Gaming Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,49999
+164,Lenovo,Lenovo 8AIN IdeaPad 5 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,59999
+165,Lenovo,Lenovo 59IN IdeaPad Flex 5 Convertible ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,81999
+166,AVITA,AVITA PURA E NS14A6ING541 Laptop ,8GB,256GB SSD,AMD A6-9220e,Budget Laptop,AMD,Solid State Drive,25999
+167,Dell,Dell 3511 Inspiron 15 ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,56499
+168,Dell,Dell 3511 Inspiron 15 ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,57999
+169,Lenovo,Lenovo BJIN IdeaPad Silm 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,47799
+170,Asus,Asus HZ084TS ROG Zephyrus G14 Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72999
+171,HP,HP 14s-ef1000tu Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,45999
+172,Asus,Asus L502WS Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,62999
+173,Dell,Dell 3400 Vostro Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,58999
+174,Dell,Dell Inspiron 15 3511 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,63999
+175,HP,HP 14-dy1010TU Pavilion x360 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,73999
+176,HP,HP 15-DU3517TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52999
+177,Asus,Asus L303WS Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,46999
+178,Lenovo,Lenovo 8QIN Ideapad Slim 3 Laptop ,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31999
+179,HP,HP ay1038a Envy 13 Convertible Laptop ,16GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,81999
+180,Dell,Dell 3511 Inspiron 15 Standard Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,45999
+181,Dell,Dell 3511 Inspiron 15 Standard Laptop ,8GB,256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,55999
+182,Dell,Dell 3515 Inspiron 15 Standard Laptop ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,45499
+183,Dell,Dell 3511 Inspiron 15 Standard Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64499
+184,HP,HP 14-eb0019TX Envy Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,81999
+185,HP,HP 14-eb0021TX Envy Gaming Laptop ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,109999
+186,HP,HP 14-ea0538TU Spectre x360 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,104999
+187,HP,HP 15-eh1103AU Pavilion Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62999
+188,Lenovo,Lenovo DFIN Ideapad 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,45490
+189,HP,HP 15s-dy3501TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,39999
+190,Dell,Dell 7415 Inspiron 14 Convertible Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,68999
+191,Dell,Dell 3515 Inspiron 15 Laptop ,8GB,256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,45799
+192,Lenovo,Lenovo 5DIN IdeaPad Flex 5 Convertible Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,52499
+193,Lenovo,Lenovo DCIN IdeaPad 5 Pro Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64999
+194,Lenovo,Lenovo VXIN IdeaPad Flex 5 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+195,Lenovo,Lenovo DWIN IdeaPad 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36499
+196,Lenovo,Lenovo UPIN IdeaPad 3 Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,AMD,Solid State Drive,27980
+197,Lenovo,Lenovo W2IN IdeaPad Flex 5 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,55499
+198,Microsoft,Microsoft E4K-00014 Surface Pro X Convertible Laptop ,8GB,128GB SSD,Microsoft SQ 1,High End Laptop,AMD,Solid State Drive,89990
+199,Asus,Asus EB582TS Laptop ,16GB,512GB SSD + 32GB Intel Optane Memory,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive & Intel Optane Memory,48999
+200,Asus,Asus ROG Zephyrus G14 Gaming Laptop ,16GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,142999
+201,Apple,Apple Z11C MacBook Pro ,8GB,512GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,162900
+202,Asus,Asus HN084WS ROG Strix G15 ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,113999
+203,Acer,Acer AN515-58 Nitro 5 Gaming Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,84690
+204,Samsung,Samsung Galaxy Book Go Laptop ,4GB,128GB SSD,Qualcomm Snapdragon 7C,Budget Laptop,AMD,Solid State Drive,35999
+205,Samsung,Samsung Galaxy Book2 Pro Laptop ,16GB,512GB,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,124999
+206,Samsung,Samsung Galaxy Book2 Pro Laptop ,8GB,512GB,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,114999
+207,Lenovo,Lenovo MBIN Yoga Slim 7 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,71999
+208,Lenovo,Lenovo UWIN Ideapad G3 Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,67999
+209,Samsung,Samsung Galaxy Book2 360 Convertible Laptop ,16GB,512GB,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,96999
+210,Samsung,Samsung Galaxy Book2 Pro 360 Convertible Laptop ,16GB,512GB,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,120999
+211,Asus,Asus ROG Strix G15 G513 ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,123999
+212,HP,HP 15-EG2019TX Pavilion Laptop ,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75999
+213,Dell,Dell 5410 Inspiron 14 2-IN-1 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75999
+214,HP,HP 16-d0302TX Victus Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,63999
+215,Asus,Asus VivoBook S 15 L501WS Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74999
+216,Dell,Dell Vostro 3400  Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,51999
+217,Asus,Asus HX070T TUF Gaming Laptop ,8GB,1TB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,76999
+218,Asus,Asus GJ001W Laptop ,8GB,128GB eMMC,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,22990
+219,HP,HP Pavilion 14-dv1000TU Pavilion Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,60400
+220,HP,HP Pavilion 14-DY1048TU Convertible x360 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72999
+221,Dell,Dell Inspiron 3511 Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,43999
+222,Dell,Dell 3400 Vostro Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,50499
+223,HP,HP Envy 13-ay1040AU Convertible x360 Laptop ,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,96999
+224,HP,HP Pavilion 15-eg2002TU Laptop ,16GB,512GB SSD,Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,69999
+225,HP,HP 13-ba1505TX Envy Laptop ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,93999
+226,HP,HP Pavilion 15-EH2024AU laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,63999
+227,Lenovo,Lenovo 90IN Ideapad Flex 5 Convertible Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,52499
+228,Lenovo,Lenovo 68IN Ideapad G3 Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+229,Asus,Asus HN309W TUF Gaming F15 Gaming Laptop ,16GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61999
+230,Samsung,Samsung Galaxy Book2 Pro 360 Convertible Laptop ,16GB,512GB,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,115999
+231,Samsung,Samsung Galaxy Book2 360 Convertible Laptop ,16GB,512GB,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,105999
+232,Acer,Acer A315-23 Aspire 3 Laptop ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,29990
+233,Asus,Asus HX030WS TUF F17 Gaming Laptop ,16GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,137999
+234,Acer,Acer A315-58 Aspire 3 Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,38490
+235,Lenovo,Lenovo IdeaPad 3 L1IN Laptop ,16GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,37999
+236,Dell,Dell Inspiron 3511 Laptop ,16GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,47999
+237,Dell,Dell Inspiron 3515 Laptop ,16GB,1TB HDD + 256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,41999
+238,Dell,Dell Vostro 3405 Laptop ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,39999
+239,Dell,Dell 3515 Inspiron 15 Standard Laptop ,16GB,1TB HDD + 256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,48999
+240,Asus,Asus HN036WS TUF Dash F15 Gaming Laptop ,8GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,114999
+241,Dell,Dell Vostro 3400 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,55499
+242,Avita,Avita Essential Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,22999
+243,Dell,Dell 3511 Inspiron 15 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,54999
+244,Asus,Asus KM731WS ZenBook 14  Laptop ,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,104999
+245,Dell,Dell 5520 G15 Gaming Laptop ,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,137999
+246,Dell,Dell 3511 Inspiron Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,69999
+247,Acer,Acer Aspire 3 Laptop ,16GB,256GB SSD,AMD Athlon,Budget Laptop,AMD,Solid State Drive,24990
+248,Dell,Dell 5410 Inspiron 14 2-in-1 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,70999
+249,Dell,Dell 3511 Inspiron 15 Standard Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,66999
+250,Dell,Dell 3515 Inspiron 15 Standard Laptop ,16GB,1TB HDD + 256GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Hard Disk Drive & Solid State Drive,49999
+251,Dell,Dell 5410 Inspiron 14 2-in-1 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,83999
+252,Asus,Asus E210MA-GJ002W Laptop ,4GB,128GB eMMC,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,22990
+253,Dell,Dell 3515 Inspiron 15  Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,48999
+254,Dell,Dell Vostro 3500 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57999
+255,Dell,Dell 5410 Inspiron 14 2-in-1 Convertible Laptop ,4GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,88999
+256,Dell,Dell 3515 Inspiron 15 Standard Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,50499
+257,Dell,Dell 3515 Inspiron 15 Standard Laptop ,8GB,1TB HDD,AMD Ryzen 5,Mid Range Laptop,AMD,Hard Disk Drive,52999
+258,HP,HP Pavilion 15-dk2100TX Gaming Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,66999
+259,Asus,Asus HN072WS TUF F15 Gaming Laptop ,8GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,123999
+260,Asus,Asus HX021W ROG Strix G17 ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,109999
+261,Asus,Asus VivoBook S 15 L701WS Laptop ,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,94999
+262,Asus,Asus HN124W TUF A15 Gaming Laptop ,16GB,512GB,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,99999
+263,Asus,Asus HQ275WS ROG Strix G15 Gaming Laptop ,8GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,151999
+264,Asus,Asus HN356W TUF F15 Gaming Laptop ,16GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61999
+265,Asus,Asus ROG Strix G15 G513 Gaming Laptop ,8GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,119999
+266,HP,HP 14-DY0208TU Pavilion x360 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,57999
+267,Lenovo,Lenovo 7HIN IdeaPad 3 Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47999
+268,HP,HP 15-eh2025au Laptop ,16GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,57999
+269,HP,HP  Victus 16-d0354TX Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75499
+270,Asus,Asus HN075WS TUF A15 Gaming Laptop ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,82999
+271,HP,HP Pavilion 15-EG2039TU Laptop ,4GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,86999
+272,Asus,Asus KM045WS VivoBook Pro 14 ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,89999
+273,Lenovo,Lenovo 0FIN Yoga 6 Convertible Laptop ,16GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,74999
+274,Dell,Dell Inspiron 3515 Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47999
+275,Apple,Apple MNEQ3HNA MacBook Pro ,8GB,512GB,Apple M2 chip,High End Laptop,Apple M2 Chip,Solid State Drive,149900
+276,Dell,Dell 3511 Inspiron 15 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,42999
+277,Acer,Acer A515-56 Aspire 5 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,48999
+278,HP,HP Pavilion 15-eg2035TU Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72999
+279,Acer,Acer SF314-511 Swift 3 Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,59750
+280,Apple,Apple Z124 MacBook Air ,8GB,256GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,112900
+281,Asus,Asus K2067TS ROG Zephyrus G14 Gaming Laptop ,8GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72999
+282,Asus,Asus L513WS VivoBook K15 Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64999
+283,Apple,Apple MNEH3HNA MacBook Pro ,8GB,512GB,Apple M2 chip,High End Laptop,Apple M2 Chip,Solid State Drive,129900
+284,Apple,Apple MNEJ3HNA MacBook Pro ,8GB,512GB,Apple M2 chip,High End Laptop,Apple M2 Chip,Solid State Drive,149900
+285,Apple,Apple MNEH3HNA MacBook Pro ,8GB,256GB,Apple M2 chip,High End Laptop,Apple M2 Chip,Solid State Drive,129900
+286,Asus,Asus K2331TS ROG Zephyrus G14 Gaming Laptop ,16GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,142999
+287,Asus,Asus EC312WS VivoBook Flip 14 Convertible Laptop,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,51999
+288,Asus,Asus KM531WS ZenBook 14 Laptop ,16GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,89999
+289,Dell,Dell G15 Gaming Laptop ,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,112999
+290,Dell,Dell 5410 Inspiron 14 2-in-1 Convertible Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,53999
+291,Dell,Dell 5511 G15 Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,77999
+292,Asus,Asus LD123WS ROG Flow Z13 Gaming Laptop ,16GB,512GB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,171999
+293,Dell,Dell 5410 Inspiron 14 2-IN-1 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,79499
+294,Asus,Asus HP702WS ZenBook Flip 13 2-in-1 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,106999
+295,Lenovo,Lenovo 8JIN IdeaPad Slim 3 Laptop ,4GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,30999
+296,HP,HP Pavilion 14-dv1001TU laptop,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67990
+297,HP,HP 14s-dr4000TU Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,53999
+298,Dell,Dell G15 5511 Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75999
+299,Asus,Asus HN036WS TUF Dash F15 Gaming Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,90999
+300,Asus,Asus LD049WS ROG Flow Z13 Gaming Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,136999
+301,HP,HP 14-dv1002TU Pavilion Thin & Light Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,67400
+302,HP,HP 15s-du3039TU Laptop ,8GB,1TB HDD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,39999
+303,Lenovo,Lenovo UXIN IdeaPad Gaming 3 Laptop ,8GB,1TB HDD,AMD Ryzen 5,Mid Range Laptop,AMD,Hard Disk Drive,63990
+304,Lenovo,Lenovo 5JIN Yoga 9 Convertible Laptop ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,174999
+305,Lenovo,Lenovo Legion 5 Pro 16ITH6H Laptop ,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,159999
+306,HP,HP 15s-du3060TX Laptop ,8GB,1TB HDD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,59499
+307,Lenovo,Lenovo K0IN IdeaPad Slim 5i Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,64990
+308,Lenovo,Lenovo ADIN IdeaPad Slim 5 Laptop ,8GB,512GB SSD,AMD Ryzen 7,Mid Range Laptop,AMD,Solid State Drive,59499
+309,Asus,Asus EJ311TS Laptop ,4GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,29980
+310,HP,HP 14a-na0003tu ChromeBook ,4GB,64GB eMMC,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,24999
+311,HP,HP 16-e0075AX Victus Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62999
+312,Asus,Asus EJ562WS Laptop ,16GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,45999
+313,HP,HP 15-EC2150AX Pavilion Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,62999
+314,Lenovo,Lenovo L2IN IdeaPad 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,37499
+315,Asus,Asus EK003W Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,27499
+316,Asus,Asus EK342WS Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,34999
+317,Asus,Asus Vivobook 14 EB342WS Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,33990
+318,Lenovo,Lenovo EFIN Ideapad 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,35990
+319,Lenovo,Lenovo B0IN Ideapad 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36980
+320,Asus,Asus BV311T VivoBook 14 Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,28990
+321,Lenovo,Lenovo E6IN Ideapad Slim 3 Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,32499
+322,Lenovo,Lenovo FBIN Ideapad Slim 3 Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,37499
+323,Lenovo,Lenovo 95IN Ideapad 1 Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,23890
+324,HP,HP 14-dy0186TU Pavilion x360 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,54999
+325,Lenovo,Lenovo 94IN IdeaPad Flex 5 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,55499
+326,Lenovo,Lenovo B1IN IdeaPad 3 Laptop ,8GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36999
+327,Asus,Asus EB572WS X415 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,49999
+328,Lenovo,Lenovo K8IN IdeaPad Slim 3i Laptop ,16GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,38999
+329,Lenovo,Lenovo D330 IdeaPad 1YIN 2-in-1 Convertible Laptop ,4GB,128GB eMMC,Intel Celeron,Budget Laptop,Intel,Embedded Multimedia Card,20999
+330,Asus,Asus E410 Eeebook ,8GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,27499
+331,Lenovo,Lenovo 7KIN IdeaPad Slim 3i Laptop ,4GB,256GB,Intel Celeron,Budget Laptop,Intel,Solid State Drive,27990
+332,Acer,Acer A314-35 Aspire 3 Laptop ,4GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,26699
+333,Lenovo,Lenovo V1IN IdeaPad 3 Laptop ,4GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52999
+334,HP,HP 15s-eq2144au Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,46999
+335,HP,HP 14s-dr2512TU Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,37499
+336,HP,HP 14s-dr2514TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,42999
+337,HP,HP 15S-FR2508TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,41999
+338,Hp,Hp 15s-fq2628TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,41999
+339,Lenovo,Lenovo E5IN IdeaPad Silm 3i Laptop ,4GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36999
+340,HP,HP 14s-dq3033TU Laptop ,8GB,256GB SSD,Intel Pentium Silver N6000,Budget Laptop,Intel,Solid State Drive,31948
+341,Hp,Hp 15s-fr5001TU Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,60999
+342,Lenovo,Lenovo IdeaPad 3 MQIN Laptop ,8GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,29990
+343,HP,HP 14s-fq1089AU Laptop ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,40999
+344,Lenovo,Lenovo IdeaPad Slim 3 Standard Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,32999
+345,HP,HP 15-EH2018AU Pavilion Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,56999
+346,HP,HP 14-DY0207TU Pavilion x360 Convertible Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Mid Range Laptop,Intel,Solid State Drive,57999
+347,HP,HP 14-DY1049TU Pavilion x360 Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74999
+348,HP,HP 15-DU3519TX Pavilion Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,63999
+349,Acer,Acer 15 Nitro 5 Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,61990
+350,Asus,Asus BV322WS VivoBook 14 Laptop ,8GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,35999
+351,Asus,Asus BQ301WS VivoBook 15 Laptop ,8GB,256GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,34299
+352,HP,HP Pavilion 15-ec2144AX Gaming Laptop ,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,66999
+353,Lenovo,Lenovo ARIN Ideapad G3 Gaming Laptop ,4GB,512GB SSD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57999
+354,Asus,Asus EJ312WS Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,34999
+355,MSI,MSI Modern 14 B10MW Laptop ,8GB,512GB SSD,10th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,44499
+356,MSI,MSI Modern 14 B10MW Laptop ,4GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31490
+357,Asus,Asus AU521WS Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,54999
+358,Asus,Asus EB372WS VivoBook 14 Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,41999
+359,Asus,Asus EB502WS Laptop ,8GB,256GB SSD,11th Gen Intel Core i5,Budget Laptop,Intel,Solid State Drive,43999
+360,Acer,Acer EX215 Extensa 15 Laptop ,4GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,30990
+361,HP,HP 15S-FQ4021TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52999
+362,Samsung,Samsung Galaxy Book2 Pro Laptop ,8GB,512GB,12th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,106999
+363,HP,HP 14s-dq3032tu Thin & Light Laptop ,8GB,256GB SSD,Intel Celeron,Budget Laptop,Intel,Solid State Drive,30990
+364,Lenovo,Lenovo 8EIN Ideapad Silm 3i Laptop ,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,32999
+365,Lenovo,Lenovo V2IN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,40999
+366,Asus,Asus BV341T Vivobook 14 Laptop ,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31649
+367,Lenovo,Lenovo 41IN IdeaPad Slim 3 Laptop ,4GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,31490
+368,HP,HP 15s-eq2143AU Laptop ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,38999
+369,HP,HP 14s-fq1092AU Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47999
+370,HP,HP 15s-fq4022TU Laptop ,8GB,512GB SSD + 32GB Intel Optane Memory,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive & Intel Optane Memory,51990
+371,HP,HP 14-DQ2606TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,41999
+372,Lenovo,Lenovo IdeaPad 3i 8YIN Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,32999
+373,Asus,Asus VivoBook 15 EJ502WS Laptop ,8GB,512GB SSD,12th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,57999
+374,HP,HP 15s-fq2626TU Laptop ,8GB,256GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36490
+375,HP,HP 15s-fq2627TU Laptop ,8GB,512GB SSD,11th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,39990
+376,Asus,Asus Vivobook 14 Laptop ,8GB,1TB HDD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,28999
+377,Apple,Apple MGN63HNA MacBook Air ,8GB,256GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,92900
+378,Apple,Apple MYD82HNA MacBook Pro ,8GB,256GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,106699
+379,Lenovo,Lenovo 93IN IdeaPad 3 Laptop ,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,33999
+380,Asus,Asus BQ512TS Vivobook Laptop ,8GB,1TB HDD + 256GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive & Solid State Drive,53999
+381,Apple,Apple MGND3HNA MacBook Air ,8GB,256GB,Apple M1 Chip,High End Laptop,Apple M1 Chip,Solid State Drive,92900
+382,Asus,Asus HN362WS TUF F15 Gaming Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,79999
+383,Apple,Apple MBPMKGP3HNA MacBook Pro ,16GB,512GB,Apple M1 Pro chip,High End Laptop,Apple M1 Pro Chip,Solid State Drive,183206
+384,Microsoft,Microsoft 1XF-00013 Surface Pro 7+ Convertible Laptop ,8GB,128GB SSD,11th Gen Intel Core i3,High End Laptop,Intel,Solid State Drive,83999
+385,Lenovo,Lenovo 7EIN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,AMD Ryzen 5,Budget Laptop,AMD,Solid State Drive,47999
+386,HP,HP 14-ED0007QU Laptop ,16GB,128GB eMMC,Qualcomm Snapdragon 7C,Budget Laptop,Qualcomm Snapdragon,Embedded Multimedia Card,39999
+387,HP,HP ENVY x360 E13-BD1003TU Convertible Laptop ,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,96999
+388,Asus,Asus HQ030WS TUF Dash F15 Gaming Laptop ,8GB,1TB SSD,12th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,164999
+389,Lenovo,Lenovo J1IN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,50999
+390,Lenovo,Lenovo EBIN IdeaPad Slim 3i Laptop ,8GB,512GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,36999
+391,Lenovo,Lenovo A3IN IdeaPad G3 Gaming Laptop ,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,75999
+392,Lenovo,Lenovo 49IN IdeaPad 1 Laptop ,8GB,512GB SSD,AMD Ryzen 3,Budget Laptop,AMD,Solid State Drive,39499
+393,Dell,Dell 3511 Inspiron 15 ,8GB,1TB HDD + 256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive & Solid State Drive,45199
+394,Microsoft,Microsoft 34.29 cm (13.5 inch) Surface Laptop,8GB,128GB SSD,10th Gen Intel Core i5,High End Laptop,AMD,Solid State Drive,91990
+395,Apple,Apple MacBook Pro MWP52HNA,16GB,1TB,Apple M2 chip,High End Laptop,Apple M2 Chip,Solid State Drive,189053
+396,Asus,Asus ExpertBook P1 (P1440FA) Laptop,8GB,1TB HDD,10th Gen Intel Core i5,Mid Range Laptop,Intel,Hard Disk Drive,62999
+397,HP,HP 15-ek0019TX Omen Gaming Laptop,16GB,1TB HDD,10th Gen Intel Core i7,High End Laptop,Intel,Hard Disk Drive,101199
+398,HP,HP 15-ek0025TX Omen Gaming Laptop,8GB,512GB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,73999
+399,Dell,Dell 3501 Inspiron 3000 Laptop,8GB,1TB HDD,11th Gen Intel Core i3,Budget Laptop,Intel,Hard Disk Drive,41999
+400,Dell,Dell 3501 Inspiron 3000 Laptop,8GB,256GB SSD,10th Gen Intel Core i3,Budget Laptop,Intel,Solid State Drive,39999
+401,Asus,Asus KA711TS ZenBook Duo (2021) Laptop,16GB,1TB SSD,11th Gen Intel Core i7,High End Laptop,AMD,Solid State Drive,138999
+402,HP,HP 15-ec1023AX Pavilion Gaming Laptop,8GB,1TB HDD + 256GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Hard Disk Drive & Solid State Drive,61999
+403,HP,HP 15-ec1106AX Pavilion Gaming Laptop,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,63999
+404,HP,HP 15s-FQ2076TU Laptop,8GB,512GB SSD,11th Gen Intel Core i5,Mid Range Laptop,Intel,Solid State Drive,52999
+405,HP,HP 15-DK2075TX Pavilion Gaming Laptop,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,83999
+406,HP,HP 16d0300TX Victus Gaming Laptop,8GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,74999
+407,HP,HP 16d0005TX Victus Gaming Laptop,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,100999
+408,Asus,Asus K6464TS ROG Flow X13 Gaming Laptop,16GB,1TB SSD,AMD Ryzen 9,High End Laptop,AMD,Solid State Drive,112999
+409,Dell,Dell 5415 Vostro 14 Laptop,8GB,512GB SSD,AMD Ryzen 5,Mid Range Laptop,AMD,Solid State Drive,57999
+410,Lenovo,Lenovo P4IN Legion 5 Gaming Laptop,8GB,256GB SSD,10th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,72490
+411,Dell,Dell 9305 XPS 13 Laptop,16GB,512GB SSD,11th Gen Intel Core i5,High End Laptop,Intel,Solid State Drive,115999
+412,Dell,Dell 5310 Inspiron 13 Gaming Laptop,16GB,512GB SSD,11th Gen Intel Core i7,High End Laptop,Intel,Solid State Drive,92499
+413,Asus,Asus KG701TS Zenbook 13 Laptop,16GB,1TB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,72499
+414,Lenovo,Lenovo 4DIN Legion 5 Gaming Laptop,8GB,512GB SSD,AMD Ryzen 7,High End Laptop,AMD,Solid State Drive,89499
+415,VAIO,VAIO E15 V2IN007P Laptop,8GB,512GB SSD,AMD Ryzen R5,Budget Laptop,AMD,Solid State Drive,48999
+416,AVITA,AVITA Liber V14 A8INR672-MB Laptop,16GB,1TB SSD,10th Gen Intel Core i7,Mid Range Laptop,Intel,Solid State Drive,58999
+417,HP,HP 15-ec1051AX Pavilion Gaming Laptop,8GB,512GB SSD,AMD Ryzen 5,High End Laptop,AMD,Solid State Drive,72999
